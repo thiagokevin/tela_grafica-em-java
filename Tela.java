@@ -1,7 +1,9 @@
-public class tela
+public class Tela
 {
-  public static vid main(String args[])
+  public static void main(String[] args)
   {
     System.out.println("Ola Mundo");
   }
+
+
 }
